@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProcessOfThings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="homescreen">Home</string>
+    <string name="shoppingcart">Shopping cart</string>
+
+    <string-array name="item_number">
+        <item><b><u>0</u></b></item>
+        <item><b><u>1</u></b></item>
+        <item><b><u>2</u></b></item>
+        <item><b><u>3</u></b></item>
+        <item><b><u>4</u></b></item>
+        <item><b><u>5</u></b></item>
+        <item><b><u>More</u></b></item>
+    </string-array>
+</resources>
